@@ -1,1 +1,1 @@
-First Ruby on rails app
+First Ruby on rails app.
