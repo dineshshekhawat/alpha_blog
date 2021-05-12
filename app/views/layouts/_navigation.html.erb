@@ -71,6 +71,9 @@
               aria-haspopup="true" 
               aria-expanded="false">
               Your Profile 
+
+              <%= "Admin" if current_user.admin? %>
+
               <span class="caret"></span>
             </a>
             
