@@ -12,6 +12,8 @@ gem 'bootstrap-will_paginate', '1.0.0'
 
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
+# Need for rails Test
+gem 'rexml'
 # Use SCSS for stylesheets
 gem 'popper_js', '~> 1.11', '>= 1.11.1'
 gem 'bootstrap-sass', '~> 3.3.7'
